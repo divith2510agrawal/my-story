@@ -1,0 +1,21 @@
+hello everyone, how do you do?
+1)mkdir mystory
+creates a new folder called as my story
+2)cd story1
+changes the folder
+3)ls
+lists the icons of the desktop
+4)pwd 
+helps to know in which folder we are
+5)cd ..
+helps tocome inthe main folder
+6)cat > filename.txt
+helps tp make a new file in the folder
+7)cat filename.txt
+displays the contents of the file in the git bash
+8)git init 
+initializer my repositary with git
+9)git status
+helpsto know whats in our repository
+10)git commit -m 'message'
+comment which willhelp to track the changes in the story
